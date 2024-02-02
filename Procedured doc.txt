@@ -1,0 +1,25 @@
+install shadcn.ui
+configure the height in globals.css
+Route grouping craeting root file  //Not necessary, but good to manage work place
+shadcnui installation
+clerk installation
+.env file managing with the gitignore file and implement the authentication
+import ClerkProvider and wrap the page from it in layout.tsx
+adding middleware to project by creating a middleware.ts in the root of the project
+creating a auth folder inside tehe app
+creating a route file inside the auth
+inside that create sign-up\[[...sign-up]] folders and inside that  create page.tsx
+do the same as above step for sign in
+implement the provided environment variables
+centering the sign in and up by creating common auth layout.tsx
+implementing a clerk user button inside the root\page.tsx
+installing and customising shadcnui dialog
+
+5.02
+
+
+
+hydretion error
+
+axios
+react-hot-toast
